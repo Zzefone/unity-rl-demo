@@ -1,8 +1,8 @@
 # Unity RL Demo
 
-基于 **Unity 6000.6.4f1** 的滚球与追逐演示，包含可选的 Python 强化学习训练代码和 Unity MCP 插件。
+[中文](README.md) | [English](README.en.md)
 
-**当前演示由规则控制，尚未进行强化学习训练。** 蓝球的自动追逐使用目标方向和自身速度计算控制力；仓库没有训练成绩或预训练模型。不使用 ML-Agents，也不转换 ONNX 模型。
+基于 **Unity 6000.6.4f1** 的滚球与追逐演示，包含可选的 Python 强化学习训练代码和 Unity MCP 插件。
 
 ![追逐场景](docs/demo.png)
 
