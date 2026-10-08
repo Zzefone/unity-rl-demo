@@ -1,0 +1,10 @@
+{
+  "Unity": "6000.6.4f1",
+  "Unity MCP": "10.0.0",
+  "Python": "3.12.4 (python312)",
+  "PyTorch": "2.3.1+CUDA12.1",
+  "trainer": "Stable-Baselines3 2.4.1 PPO",
+  "environment": "custom Unity physics TCP bridge / Gymnasium",
+  "ML-Agents": "not used",
+  "guide": "Unity ML-Agents.pdf; equivalent experiment with custom bridge"
+}
